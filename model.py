@@ -77,7 +77,7 @@ def model_prediction_page():
 
 
     st.markdown("---")
-    st.write("Developed by Santhosh Kumar Reddy")
+    st.write("Developed by Harinath Reddy")
 
 def about_model_page():
 
@@ -126,7 +126,7 @@ def about_model_page():
     """)
     
     st.markdown("---")
-    st.write("Developed by Santhosh Kumar Reddy")
+    st.write("Developed by Harinath Reddy")
 
 if __name__ == "__main__":
     main()
