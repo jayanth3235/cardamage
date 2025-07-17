@@ -1,4 +1,4 @@
-App link : https://car-damage-severity-predictor.streamlit.app/
+App link : https://cardamageseverity.streamlit.app/
 
 # Car Damage Severity Assessment Using Deep Learning
 
