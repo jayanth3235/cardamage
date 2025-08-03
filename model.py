@@ -126,7 +126,7 @@ def about_model_page():
     """)
     
     st.markdown("---")
-    st.write("Developed by Harinath Reddy")
+    st.write("Developed by G Jayanth")
 
 if __name__ == "__main__":
     main()
