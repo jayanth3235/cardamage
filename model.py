@@ -77,7 +77,7 @@ def model_prediction_page():
 
 
     st.markdown("---")
-    st.write("Developed by Harinath Reddy")
+    
 
 def about_model_page():
 
