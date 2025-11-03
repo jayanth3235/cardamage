@@ -19,7 +19,6 @@ import pickle
 
 
 
-
 def predict(model, image):
     
     image = image.convert('RGB')  
